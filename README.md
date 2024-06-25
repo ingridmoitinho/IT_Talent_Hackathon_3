@@ -36,16 +36,21 @@ Para realizar as atividades, era necessário ter:
 ## Imagens
 ###  Etapa 1: Criação de um projeto SonarQube como contêiner e execução local
 
-![Imagem1](https://i.ibb.co/d4f1GgK/1.png)
-![Imagem2](https://i.ibb.co/MGVLLby/2.png)
-![Imagem3](https://i.ibb.co/2vStDc7/3.png)
+![Imagem1](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/1.png?raw=true)
+![Imagem2](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/2.png?raw=true)
+![Imagem3](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/3.png?raw=true)
+![Imagem4](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/4.png?raw=true)
+![Imagem5](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/5.png?raw=true)
+![Imagem6](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/6.png?raw=true)
+![Imagem7](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/7.png?raw=true)
+![Imagem8](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/8.png?raw=true)
 
 ### Etapa 2: CI/CD com GitHub Actions e AWS
-![Imagem4](https://i.ibb.co/LkRdgz7/4.png)
-![Imagem5](https://i.ibb.co/Yb7rN0K/5.png)
-![Imagem6](https://i.ibb.co/FXT1R1D/6.png) 
-![Imagem7](https://i.ibb.co/p33cJVN/7.png)
-![Imagem8](https://i.ibb.co/L9qVHjF/8.png)
+![Imagem9](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/9.png?raw=true)
+![Imagem10](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/10.png?raw=true)
+![Imagem11](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/11.png?raw=true)
+![Imagem12](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/12.png?raw=true)
+![Imagem13](https://github.com/ingridmoitinho/IT_Talent_Hackathon_3/blob/master/prints/13.png?raw=true)
 
 ## Conclusão
 Participar deste hackathon foi uma experiência enriquecedora que permitiu aplicar na prática os conceitos e ferramentas que aprendemos ao longo do curso. A criação do projeto SonarQube e a configuração do pipeline CI/CD com GitHub Actions e AWS foram desafiadoras, mas extremamente gratificantes. Estou ansiosa para continuar aprimorando minhas habilidades em DevOps e enfrentar novos desafios.
