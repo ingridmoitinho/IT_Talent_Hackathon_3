@@ -42,6 +42,8 @@ Para realizar as atividades, era necessário ter:
 
 ### Etapa 2: CI/CD com GitHub Actions e AWS
 ![Imagem4](https://i.ibb.co/9ydp5sK/Imagem4.png)
+![Imagem4](https://i.ibb.co/db4v1V5/Imagem4-1.png)
+![Imagem5](https://i.ibb.co/1f72YzY/Imagem.png)  
 ![Imagem5](https://i.ibb.co/3ySMWpM/Imagem6.png)
 ![Imagem6](https://i.ibb.co/XCw4K9m/Imagem7.png)
 
