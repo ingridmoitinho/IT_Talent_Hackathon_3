@@ -36,16 +36,16 @@ Para realizar as atividades, era necessário ter:
 ## Imagens
 ###  Etapa 1: Criação de um projeto SonarQube como contêiner e execução local
 
-![Imagem1](https://i.ibb.co/gTgKt0p/Imagem1.png)
-![Imagem2](https://i.ibb.co/Nj9GVYx/Imagem2.png)
-![Imagem3](https://i.ibb.co/gjCdNJk/Imagem3.png)
+![Imagem1](https://i.ibb.co/d4f1GgK/1.png)
+![Imagem2](https://i.ibb.co/MGVLLby/2.png)
+![Imagem3](https://i.ibb.co/2vStDc7/3.png)
 
 ### Etapa 2: CI/CD com GitHub Actions e AWS
-![Imagem4](https://i.ibb.co/9ydp5sK/Imagem4.png)
-![Imagem4](https://i.ibb.co/db4v1V5/Imagem4-1.png)
-![Imagem5](https://i.ibb.co/1f72YzY/Imagem.png)  
-![Imagem5](https://i.ibb.co/3ySMWpM/Imagem6.png)
-![Imagem6](https://i.ibb.co/XCw4K9m/Imagem7.png)
+![Imagem4](https://i.ibb.co/LkRdgz7/4.png)
+![Imagem5](https://i.ibb.co/Yb7rN0K/5.png)
+![Imagem6](https://i.ibb.co/FXT1R1D/6.png) 
+![Imagem7](https://i.ibb.co/p33cJVN/7.png)
+![Imagem8](https://i.ibb.co/L9qVHjF/8.png)
 
 ## Conclusão
 Participar deste hackathon foi uma experiência enriquecedora que permitiu aplicar na prática os conceitos e ferramentas que aprendemos ao longo do curso. A criação do projeto SonarQube e a configuração do pipeline CI/CD com GitHub Actions e AWS foram desafiadoras, mas extremamente gratificantes. Estou ansiosa para continuar aprimorando minhas habilidades em DevOps e enfrentar novos desafios.
